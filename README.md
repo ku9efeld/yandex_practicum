@@ -1,5 +1,6 @@
 # Аналитик данных
 ## Сертификат
+![Сертификат](https://github.com/ku9efeld/yandex_practicum/blob/master/main_page_certificate.png)
 ## Описание проектов
 |Название проекта|Задачи проекта|Навыки и инструменты|
 |---|---|---|
